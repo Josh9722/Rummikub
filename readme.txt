@@ -1,0 +1,1 @@
+A bot for the card game Rummikub, the goal of which is to say what combination of cards is the most optimal to play.
